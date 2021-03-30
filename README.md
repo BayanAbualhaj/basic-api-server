@@ -1,12 +1,13 @@
 # basic-api-server
 
-# basic-express-server
-
  
 ## links for deployments
 
-- [master](https://ba-basic-express-server.herokuapp.com/)
-- [pull request](https://github.com/BayanAbualhaj/basic-express-server/pull/1)
+- [master Heroku Deployment](https://ba-basic-express-server.herokuapp.com/)
+
+## Pull requests 
+
+- [pull request](https://github.com/BayanAbualhaj/basic-api-server/pull/1)
 
 
 ## UML 

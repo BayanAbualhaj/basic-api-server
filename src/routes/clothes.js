@@ -14,8 +14,11 @@ const getClothes=(req,res)=>{
 }
 
 const createClothes=(req, res)=>{
+    // console.log(req);
     const clothesObject = req.body;
+    // console.log(clothesObject);
     const resObj = clothes.create(clothesObject);
+    // console.log(resObj);
     res.status(200).json(resObj);
 }
 

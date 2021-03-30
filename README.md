@@ -3,7 +3,7 @@
  
 ## links for deployments
 
-- [master Heroku Deployment](https://ba-basic-express-server.herokuapp.com/)
+- [master Heroku Deployment](https://ba-basic-api-server.herokuapp.com/)
 
 ## Pull requests 
 
